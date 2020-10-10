@@ -12,7 +12,7 @@ client.on('ready', () => {
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(``,"")
-client.user.setStatus("offline")
+client.user.setStatus("online")
 });
 
 
